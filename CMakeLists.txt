@@ -7,3 +7,6 @@ add_subdirectory(source)
 add_subdirectory(submodules/c-header)
 
 target_link_libraries(${PROJECT_NAME} PRIVATE son8::c-header)
+
+enable_testing()
+add_subdirectory(tests)

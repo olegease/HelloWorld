@@ -1,0 +1,3 @@
+[submodule "submodules/c-header"]
+	path = submodules/c-header
+	url = git@github.com:soneight/c-header.git

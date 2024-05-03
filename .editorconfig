@@ -1,0 +1,12 @@
+root = true
+# extension for eight programming languages: 
+# - Assembly, C, C++, C#, JavaScript, PHP, Python, SQL
+[*.{asm,c,cs,cpp,cxx,h,hpp,hxx,js,php,py,sql,ts,}]
+# all options in alphabetical order
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+# end of file

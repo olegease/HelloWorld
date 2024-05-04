@@ -1,6 +1,6 @@
 #include "../source/HelloWorld.h"
 #include <son8/c/file.h>
-#include <son8/c/string.h>
+#include <son8/c/byte.h>
 
 #define BUFFER_SIZE 64
 

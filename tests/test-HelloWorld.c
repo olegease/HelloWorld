@@ -1,4 +1,4 @@
-#include "../source/HelloWorld.h"
+#include <HelloWorld.h>
 #include <son8/c/file.h>
 #include <son8/c/byte.h>
 
